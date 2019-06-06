@@ -41,7 +41,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_centerInParent="true"
-            app:srcCompat="@drawable/ball2"
+            app:srcCompat="@drawable/ball2" />
 
         <Button
             android:id="@+id/buttonAsk"

@@ -18,7 +18,7 @@ public class MainActivity extends AppCompatActivity {
 
         final Button askButton = findViewById(R.id.buttonAsk);
 
-        final int[] ballImages =  { R.drawable.ball1,
+        final int[] ballImages =  new int[] { R.drawable.ball1,
                                     R.drawable.ball2,
                                     R.drawable.ball3,
                                     R.drawable.ball4,
